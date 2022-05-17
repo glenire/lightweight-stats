@@ -19,23 +19,49 @@
   </ImportGroup>
   <ImportGroup Condition="'$(TargetFramework)' == 'net6.0-android' AND '$(ExcludeRestorePackageImports)' != 'true'">
     <Import Project="$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props')" />
+    <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
   </ImportGroup>
   <ImportGroup Condition="'$(TargetFramework)' == 'net6.0-ios' AND '$(ExcludeRestorePackageImports)' != 'true'">
     <Import Project="$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props')" />
+    <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
   </ImportGroup>
   <ImportGroup Condition="'$(TargetFramework)' == 'net6.0-maccatalyst' AND '$(ExcludeRestorePackageImports)' != 'true'">
     <Import Project="$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props')" />
+    <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
   </ImportGroup>
   <ImportGroup Condition="'$(TargetFramework)' == 'net6.0-windows10.0.19041' AND '$(ExcludeRestorePackageImports)' != 'true'">
     <Import Project="$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props" Condition="Exists('$(NuGetPackageRoot)mudblazor\6.0.10\buildTransitive\MudBlazor.props')" />
-    <Import Project="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.props" Condition="Exists('C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windows.sdk.buildtools\10.0.22000.194\build\Microsoft.Windows.SDK.BuildTools.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.windowsappsdk\1.0.1\buildTransitive\Microsoft.WindowsAppSDK.props" Condition="Exists('$(NuGetPackageRoot)microsoft.windowsappsdk\1.0.1\buildTransitive\Microsoft.WindowsAppSDK.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\6.0.5\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.maui\6.0.300-rc.1.5355\build\Microsoft.AspNetCore.Components.WebView.Maui.props')" />
+    <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
   </ImportGroup>
+  <PropertyGroup Condition="'$(TargetFramework)' == 'net6.0-android' AND '$(ExcludeRestorePackageImports)' != 'true'">
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition="'$(PkgMicrosoft_Extensions_ApiDescription_Server)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\</PkgMicrosoft_Extensions_ApiDescription_Server>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition="'$(PkgMicrosoft_EntityFrameworkCore_Tools)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.5\</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgEntityFramework Condition="'$(PkgEntityFramework)' == ''">C:\Users\Dnich\.nuget\packages\entityframework\6.4.4\</PkgEntityFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(TargetFramework)' == 'net6.0-ios' AND '$(ExcludeRestorePackageImports)' != 'true'">
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition="'$(PkgMicrosoft_Extensions_ApiDescription_Server)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\</PkgMicrosoft_Extensions_ApiDescription_Server>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition="'$(PkgMicrosoft_EntityFrameworkCore_Tools)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.5\</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgEntityFramework Condition="'$(PkgEntityFramework)' == ''">C:\Users\Dnich\.nuget\packages\entityframework\6.4.4\</PkgEntityFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(TargetFramework)' == 'net6.0-maccatalyst' AND '$(ExcludeRestorePackageImports)' != 'true'">
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition="'$(PkgMicrosoft_Extensions_ApiDescription_Server)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\</PkgMicrosoft_Extensions_ApiDescription_Server>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition="'$(PkgMicrosoft_EntityFrameworkCore_Tools)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.5\</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgEntityFramework Condition="'$(PkgEntityFramework)' == ''">C:\Users\Dnich\.nuget\packages\entityframework\6.4.4\</PkgEntityFramework>
+  </PropertyGroup>
   <PropertyGroup Condition="'$(TargetFramework)' == 'net6.0-windows10.0.19041' AND '$(ExcludeRestorePackageImports)' != 'true'">
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition="'$(PkgMicrosoft_Extensions_ApiDescription_Server)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\</PkgMicrosoft_Extensions_ApiDescription_Server>
     <PkgMicrosoft_WindowsAppSDK Condition="'$(PkgMicrosoft_WindowsAppSDK)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.windowsappsdk\1.0.1\</PkgMicrosoft_WindowsAppSDK>
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition="'$(PkgMicrosoft_EntityFrameworkCore_Tools)' == ''">C:\Users\Dnich\.nuget\packages\microsoft.entityframeworkcore.tools\6.0.5\</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgEntityFramework Condition="'$(PkgEntityFramework)' == ''">C:\Users\Dnich\.nuget\packages\entityframework\6.4.4\</PkgEntityFramework>
   </PropertyGroup>
 </Project>

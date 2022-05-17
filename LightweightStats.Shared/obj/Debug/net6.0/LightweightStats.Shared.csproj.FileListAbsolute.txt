@@ -1,0 +1,12 @@
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\bin\Debug\net6.0\LightweightStats.Shared.deps.json
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\bin\Debug\net6.0\LightweightStats.Shared.dll
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\bin\Debug\net6.0\LightweightStats.Shared.pdb
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\LightweightStats.Shared.csproj.AssemblyReference.cache
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\LightweightStats.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\LightweightStats.Shared.AssemblyInfoInputs.cache
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\LightweightStats.Shared.AssemblyInfo.cs
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\LightweightStats.Shared.csproj.CoreCompileInputs.cache
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\LightweightStats.Shared.dll
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\refint\LightweightStats.Shared.dll
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\LightweightStats.Shared.pdb
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Shared\obj\Debug\net6.0\ref\LightweightStats.Shared.dll

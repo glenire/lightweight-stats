@@ -1,37 +1,37 @@
-.navbar-toggler[b-k8ntejow2f] {
+.navbar-toggler[b-rstixyauj8] {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.top-row[b-k8ntejow2f] {
+.top-row[b-rstixyauj8] {
     height: 3.5rem;
     background-color: rgba(0,0,0,0.4);
 }
 
-.navbar-brand[b-k8ntejow2f] {
+.navbar-brand[b-rstixyauj8] {
     font-size: 1.1rem;
 }
 
-.oi[b-k8ntejow2f] {
+.oi[b-rstixyauj8] {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
     top: -2px;
 }
 
-.nav-item[b-k8ntejow2f] {
+.nav-item[b-rstixyauj8] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-k8ntejow2f] {
+    .nav-item:first-of-type[b-rstixyauj8] {
         padding-top: 1rem;
     }
 
-    .nav-item:last-of-type[b-k8ntejow2f] {
+    .nav-item:last-of-type[b-rstixyauj8] {
         padding-bottom: 1rem;
     }
 
-    .nav-item[b-k8ntejow2f]  a {
+    .nav-item[b-rstixyauj8]  a {
         color: #d7d7d7;
         border-radius: 4px;
         height: 3rem;
@@ -40,22 +40,22 @@
         line-height: 3rem;
     }
 
-.nav-item[b-k8ntejow2f]  a.active {
+.nav-item[b-rstixyauj8]  a.active {
     background-color: rgba(255,255,255,0.25);
     color: white;
 }
 
-.nav-item[b-k8ntejow2f]  a:hover {
+.nav-item[b-rstixyauj8]  a:hover {
     background-color: rgba(255,255,255,0.1);
     color: white;
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-k8ntejow2f] {
+    .navbar-toggler[b-rstixyauj8] {
         display: none;
     }
 
-    .collapse[b-k8ntejow2f] {
+    .collapse[b-rstixyauj8] {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }

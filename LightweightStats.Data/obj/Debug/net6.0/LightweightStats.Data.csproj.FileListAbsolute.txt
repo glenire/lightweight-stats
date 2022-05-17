@@ -1,0 +1,14 @@
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\bin\Debug\net6.0\LightweightStats.Data.deps.json
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\bin\Debug\net6.0\LightweightStats.Data.runtimeconfig.json
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\bin\Debug\net6.0\LightweightStats.Data.dll
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\bin\Debug\net6.0\LightweightStats.Data.pdb
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.csproj.AssemblyReference.cache
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.AssemblyInfoInputs.cache
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.AssemblyInfo.cs
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.csproj.CoreCompileInputs.cache
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.dll
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\refint\LightweightStats.Data.dll
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.pdb
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\LightweightStats.Data.genruntimeconfig.cache
+D:\Development\Repos\MAUI\Lightweight-Stats\LightweightStats.Data\obj\Debug\net6.0\ref\LightweightStats.Data.dll
